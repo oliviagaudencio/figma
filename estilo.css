@@ -1,0 +1,73 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+.pink-header{
+    background-color: rgba(253, 40, 206, 0.28);
+    padding: 20px;
+    width: 1325px;
+    height: 70px;
+    margin-top: 0px;
+    background-image: url('fi-ss-following.png');
+    background-position: left center;
+    background-size: auto 80%;
+    background-repeat: no-repeat;
+    
+}
+.left-image img{
+    width: 54px;
+    height: 51px;
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    position: relative;
+
+}
+.retangulo-cabecalho{
+    width: 798px;
+    height: 58px;
+    background-color: rgb(235, 235, 235); 
+    position: absolute;
+    top: 20px;
+    margin-left: 200px;
+}
+.link{
+    color: black;
+    text-decoration: none;
+    margin-left: 1150px;
+    margin-top: -80px;
+    
+}
+.conteudo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.quadro {
+    flex: 1 0 33%; 
+    padding: 10px; 
+    box-sizing: border-box; 
+}
+
+.quadro img {
+    max-width: 100%; 
+    height: auto; 
+}
+
+.pink-footer {
+    background-color: rgba(253, 40, 206, 0.28);
+    padding: 20px;
+}
+
+.left-images {
+    display: flex;
+}
+
+.left-images img {
+    margin-right: 10px; 
+    width: 50px; 
+    height: auto;
+    border: none; 
+}
+
